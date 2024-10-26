@@ -75,7 +75,7 @@ Marion Polk Foodshare's list of [Neighboorhood Food Pantries](https://marionpolk
 * [Salem Monday Hospital Market](https://www.salemcommunitymarkets.com/monday-market.html) ​Salem Hospital Campus between Building A & C 875 Oak Street, Salem
 * [Salem Wednesday Chemeketa Market](https://www.salemcommunitymarkets.com/wednesday-chemeketa-market.html) Chemeketa Community Collage Agricultural Hub (On the corner of 45th and Fire Protection Way)
 * [West Salem Farmer's Market](https://www.salemcommunitymarkets.com/thursday-market.html) 1260 Edgewater St NW, Salem
-* [Turner Saturday Farmer's Market]([https://turnerlives.wixsite.com/turnerlives](https://sokoapp.co/market/turner-farmers-market) 3rd St SE & Boise St SE, Turner 97392
+* [Turner Saturday Farmer's Market](https://sokoapp.co/market/turner-farmers-market) 3rd St SE & Boise St SE, Turner 97392
 * [Wayvro Farms Winter Indoor Farmer's Market](https://wavrafarms.com) Salem
 
 ## Landscaping Companies
