@@ -1,4 +1,4 @@
-# Garden Resource Guide for Polk and Marion Countyegon
+# Garden Resource Guide for Polk and Marion County Oregon
 
 Inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.org/what-we-do/action-teams/food/garden-resource-guide/)
 
