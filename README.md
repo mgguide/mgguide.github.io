@@ -17,10 +17,10 @@ Inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.o
 * [Marion SWCD Little Habitat Program](https://www.marionswcd.net/little-habitat-project/)
 * [Food Hero](https://foodhero.org)
 * [Garden to Table](https://ycmga.org/garden-to-table/) from Yamhill County Master Gardeners
-* [Growingegon Gardeners: Level Up Series](https://extension.oregonstate.edu/mg/growing-oregon-gardeners-level-series-2024)
+* [Growing Oregon Gardeners: Level Up Series](https://extension.oregonstate.edu/mg/growing-oregon-gardeners-level-series-2024)
 
 ## Public Gardens 
-* [Theegon Gardens](http://www.oregongarden.org/) Silverton
+* [The Oregon Gardens](http://www.oregongarden.org/) Silverton
 * [Delbert Hunter Arboreum](http://www.delberthunterarboretum.org/) Dallas
 * [Bush Pasture Park](https://www.cityofsalem.net/Home/Components/FacilityDirectory/FacilityDirectory/85/599) Salem
 * [Historic Deepwood Gardens](https://www.historicdeepwoodestate.org/) Salem
@@ -80,7 +80,7 @@ Marion Polk Foodshare's list of [Neighboorhood Food Pantries](https://marionpolk
 
 ## Landscaping Companies
 
-Oregon Plant Something has a list of [landscaping service](https://plantsomethingoregon.com/find-landscapers/) inegon.
+Oregon Plant Something has a list of [landscaping service](https://plantsomethingoregon.com/find-landscapers/) in Oregon.
 
 * [The Nursery Outlet](https://thenurseryoutlet.us) Woodburn
 * [Terra Gardens](https://www.terragardens.net) Salem
