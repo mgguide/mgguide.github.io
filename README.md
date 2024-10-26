@@ -40,6 +40,18 @@ The following gardens have plots available to the general public:
 
 Marion Polk Foodshare's list of [Neighboorhood Food Pantries](https://marionpolkfoodshare.org/get-help/)
 
+## Farmer's Markets
+
+* Rickreall Farmers Market 280 Pacific Hwy. W, Rickreall, OR, 541-745-7274
+* [Independence Riverview Market](https://www.independenceriverviewmarket.com) 50 C St., Independence, OR 503-837-0045 
+* [The Original Independence Farmers Market](https://www.independencefarmersmarket-or.org) 302 S Main St., Independence, OR 503-881-9950
+* [Polk County Bounty Market](www.exploredallasoregon.org) 182 SW Academy St., Dallas, OR, 503-623-2564
+* [Salem Saturday Market](https://www.salemcommunitymarkets.com/saturday-market.html) 865 Marion St NE, Salem
+* [Salem Monday Hospital Market](https://www.salemcommunitymarkets.com/monday-market.html) ​Salem Hospital Campus between Building A & C 875 Oak Street, Salem
+* [Salem Wednesday Chemeketa Market](https://www.salemcommunitymarkets.com/wednesday-chemeketa-market.html) Chemeketa Community Collage Agricultural Hub (On the corner of 45th and Fire Protection Way)
+* [West Salem Farmer's Market](https://www.salemcommunitymarkets.com/thursday-market.html) 1260 Edgewater St NW, Salem, OR
+* [Turner Saturday Farmer's Market](https://turnerlives.wixsite.com/turnerlives) 3rd St SE & Boise St SE, Turner, OR 97392
+
 ## Landscaping Companies
 
 Oregon Plant Something has a list of [landscaping service](https://plantsomethingoregon.com/find-landscapers/) in Oregon.
