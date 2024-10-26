@@ -2,16 +2,24 @@
 
 Inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.org/what-we-do/action-teams/food/garden-resource-guide/)
 
-## Educational Programs
-
+## Certification Programs
 * [Master Gardeners](https://extension.oregonstate.edu/mg)
+* [Horticulture at Chemeketa](https://www.chemeketa.edu/programs-classes/program-finder/horticulture/)
+* [Master Food Preservers](https://extension.oregonstate.edu/mfp/master-food-preserver-program)
+* [Oregon Naturalist](https://extension.oregonstate.edu/oregon-naturalist)
+* [Master Beekeeper](https://extension.oregonstate.edu/mb)
+* [OSU Compost Specialist](https://extension.oregonstate.edu/mg/lane/compost-specialists)
+
+## Educational Programs
 * [Seed to Supper](https://extension.oregonstate.edu/seed-supper)
 * [Junior Master Gardeners](https://jmgkids.us)
+* [Plant Heroes](https://plantheroes.org) - youth education program
 * [Marion SWCD Little Habitat Program](https://www.marionswcd.net/little-habitat-project/)
+* [Food Hero](https://foodhero.org)
 * [Garden to Table](https://ycmga.org/garden-to-table/) from Yamhill County Master Gardeners
+* [Growing Oregon Gardeners: Level Up Series](https://extension.oregonstate.edu/mg/growing-oregon-gardeners-level-series-2024)
 
 ## Public Gardens 
-
 * [The Oregon Gardens](http://www.oregongarden.org/) Silverton, OR
 * [Delbert Hunter Arboreum](http://www.delberthunterarboretum.org/) Dallas, OR
 * [Bush Pasture Park](https://www.cityofsalem.net/Home/Components/FacilityDirectory/FacilityDirectory/85/599) Salem, OR
