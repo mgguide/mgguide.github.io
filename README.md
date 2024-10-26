@@ -139,7 +139,7 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Salem Hardy Plants Society](https://salemhardyplantsociety.org)
 
 ## Facebook Groups 
-* [Salem/Keizeregon Gardening for Pollinators and Birds](https://www.facebook.com/share/g/gcU2VdpkXkab42Kj/)
+* [Salem/Keizer Oregon Gardening for Pollinators and Birds](https://www.facebook.com/share/g/gcU2VdpkXkab42Kj/)
 * [Salem Area Plant Exchange and Discussion](https://www.facebook.com/share/g/CuduD37NsJdPpHJb/)
 * [Willamette Valley Carnivorous Plants](https://www.facebook.com/share/g/CUUEMV1XPueWQiX2/)
 * [Pacific Northwest Gardening](https://www.facebook.com/share/g/QQGPkGrSUy599izH/)
