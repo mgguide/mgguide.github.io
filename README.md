@@ -7,6 +7,7 @@ Inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.o
 * [Master Gardeners](https://extension.oregonstate.edu/mg)
 * [Seed to Supper](https://extension.oregonstate.edu/seed-supper)
 * [Junior Master Gardeners](https://jmgkids.us)
+* [Marion SWCD Little Habitat Program](https://www.marionswcd.net/little-habitat-project/)
 
 ## Public Gardens 
 
@@ -80,13 +81,26 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 
 ## Online Tools / Apps
 
+* [National Wildlife Foundation Native Plant Finder](https://nativeplantfinder.nwf.org/)
+* [OregonFlora](https://oregonflora.org) 
 * [PlantNet](https://plantnet.org/en/) Plant identification
 * [Vegplotter](https://vegplotter.com) Plot planner
 
-## Organizations
+## Local Organizations
 
 * [Marion Soil and Water Conservation District](https://www.marionswcd.net)
 * [Polk Soil and Water Conservation District](http://polkswcd.com)
 * [OSU Small Farms Program](https://smallfarms.oregonstate.edu)
 * [Marion County 4-H](https://extension.oregonstate.edu/4h/marion)
 * [Polk County 4-H](https://extension.oregonstate.edu/4h/polk)
+* [Native Plant Society of the Willamette Valley](https://www.npsoregon.org/wp/wv/)
+* [Willamette Valley Mushroom Society](https://www.wvmssalem.org)
+* [Salem Audubon Society](https://www.salemaudubon.org)
+* [Friends of Trees](https://friendsoftrees.org/salem/)
+* [Salem Hardy Plants Society](https://salemhardyplantsociety.org)
+
+## Facebook Groups 
+* [Salem/Keizer Oregon Gardening for Pollinators and Birds](https://www.facebook.com/share/g/gcU2VdpkXkab42Kj/)
+* [Salem Area Plant Exchange and Discussion](https://www.facebook.com/share/g/CuduD37NsJdPpHJb/)
+* [Willamette Valley Carnivorous Plants](https://www.facebook.com/share/g/CUUEMV1XPueWQiX2/)
+* [Pacific Northwest Gardening](https://www.facebook.com/share/g/QQGPkGrSUy599izH/)
