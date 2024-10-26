@@ -8,6 +8,7 @@ Inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.o
 * [Seed to Supper](https://extension.oregonstate.edu/seed-supper)
 * [Junior Master Gardeners](https://jmgkids.us)
 * [Marion SWCD Little Habitat Program](https://www.marionswcd.net/little-habitat-project/)
+* [Garden to Table](https://ycmga.org/garden-to-table/) from Yamhill County Master Gardeners
 
 ## Public Gardens 
 
@@ -64,25 +65,37 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 ## Compost
 
 * [Coffin Butte Landfill](https://coffinbuttelandfill.com) Manmouth, OR - $25 / yard
-* [Recology Organics](https://www.recology.com/recology-western-oregon/organics-aumsville/) Aumsville, OR - compost and bark products
+* [Recology Orga9nics](https://www.recology.com/recology-western-oregon/organics-aumsville/) Aumsville, OR - compost and bark products
+* [Highway Fuel](https://highwayfuel.com/product-category/soil-compost/) Salem, OR
+* [Landscape Shoppe](https://landscapeshoppe.com/soil-compost/) Salem, OR
+* [Bark Boys](https://barkboys.net/our-products/soil/) Salem, OR 
 
 ## Mushrooms
 
 * [Oregon Gourmet Mushrooms](https://orgourmetmushrooms.com) Salem, OR. 
 
+## Bees and Bee Supplies
+
+* [Linn County Master Gardeners](https://www.linnmastergardeners.com/pollinator-info) Bee Notes newsletter and Mason Bee supplies and cacoons.
+* [Flying bee farm](https://flyingbeeranch.net/) Salem OR 
+
+## Garden Supplies
+* [Habitat for Humanity ReStore](https://salemhabitat.org/restore/)
+* [H20 Help and Hope to Others Thrift Store](https://www.facebook.com/p/H20-Help-and-Hope-to-Others-100079867184192/) Dallas, OR - large supply of garden tools and equipment
+* [Wilco Farm Store]() Salem, Silverton and Stayton
+* [Tractor Supply](https://www.tractorsupply.com/tsc/store_Monmouth-OR-97361_2478) Monmouth
+* [Ace Hardware](https://www.acehardware.com)
+
 ## Permaculture
 
 * [Hopewell Permaculture Guild](https://www.hopewellhub.com/hopewell-permaculture-guild.html) Salem, OR
 
-## Online References
+## Online Guides / References
 
 * [OSU Extension Service](https://extension.oregonstate.edu)
 * [Pacific Northwest Pest Management Handbook](http://pnwhandbooks.org)
-
-## Online Tools / Apps
-
 * [National Wildlife Foundation Native Plant Finder](https://nativeplantfinder.nwf.org/)
-* [OregonFlora](https://oregonflora.org) 
+* [OregonFlora](https://oregonflora.org)
 * [PlantNet](https://plantnet.org/en/) Plant identification
 * [Vegplotter](https://vegplotter.com) Plot planner
 
@@ -99,8 +112,13 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Friends of Trees](https://friendsoftrees.org/salem/)
 * [Salem Hardy Plants Society](https://salemhardyplantsociety.org)
 
+## Local Guidebooks
+
 ## Facebook Groups 
 * [Salem/Keizer Oregon Gardening for Pollinators and Birds](https://www.facebook.com/share/g/gcU2VdpkXkab42Kj/)
 * [Salem Area Plant Exchange and Discussion](https://www.facebook.com/share/g/CuduD37NsJdPpHJb/)
 * [Willamette Valley Carnivorous Plants](https://www.facebook.com/share/g/CUUEMV1XPueWQiX2/)
 * [Pacific Northwest Gardening](https://www.facebook.com/share/g/QQGPkGrSUy599izH/)
+
+## Youtube
+* [Benton County Master Gardeners](https://www.youtube.com/@bentoncountymastergardener1039) - includes a virtual version of the seed to supper program
