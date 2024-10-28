@@ -31,7 +31,7 @@ Inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.o
 * [Marion Demonstration Garden](https://marioncomga.org/demonstration-garden/) Salem
 
 ## Nurseries / Farm Stores
-Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers ingeon. 
+Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers in Oregon. 
 
 * [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem
 * [Alderman Peony Gardens](http://peonyparadise.com/) Salem - more than 500 different varieties of peonies 
