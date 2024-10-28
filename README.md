@@ -94,6 +94,10 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Landscape Shoppe](https://landscapeshoppe.com/soil-compost/) Salem
 * [Bark Boys](https://barkboys.net/our-products/soil/) Salem 
 
+## Woodchips
+
+* [R&R Tree Service](https://www.rrtreeservice.com/) Salem - call 503-540-9038 – to be added to our chip mulch list.  When the crew is working in the area, and has a load available, they will call to see if you are interested.  Each load of chips is approximately 10 – 15 yards.  They dump full loads only.
+
 ## Mushrooms
 
 * [Oregon Gourmet Mushrooms](https://orgourmetmushrooms.com) Salem. Logs, education.
