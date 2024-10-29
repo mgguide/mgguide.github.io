@@ -92,6 +92,7 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 
 * [Altar Tree Services](https://altartreeservice.com/) Salem
 * [R&R Tree Service](https://rrtreeservice.com) Salem
+* [Oregon Woodsmen Tree Service](https://oregonwoodsmen.com) Rickreall
 
 ## Compost
 
@@ -99,7 +100,8 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Recology Organics](https://www.recology.com/recology-western-oregon/organics-aumsville/) Aumsville - compost and bark products. Compost is $25 a yard and they can deliver with a 2 yard minimum. Cost depends on location, for West Salem, for example, it's $55. 
 * [Highway Fuel](https://highwayfuel.com/product-category/soil-compost/) Salem
 * [Landscape Shoppe](https://landscapeshoppe.com/soil-compost/) Salem
-* [Bark Boys](https://barkboys.net/our-products/soil/) Salem 
+* [Bark Boys](https://barkboys.net/our-products/soil/) Salem
+* [Ole Bergman Excavating](https://olebergman.com/) Dallas
 
 ## Woodchips
 
