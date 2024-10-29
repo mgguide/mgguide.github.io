@@ -35,26 +35,26 @@ This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustaina
 ## Nurseries / Farm Stores
 Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers in Oregon. 
 
-* [13th Street Nursery](https://www.13thstreetnursery.net) Salem: Known for its personalized service.
-* [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence: Specializes in native plants and trees.
-* [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn: Offers home décor along with garden essentials.
+* [13th Street Nursery](https://www.13thstreetnursery.net) Salem
+* [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence
+* [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn
 * [Alderman Peony Gardens](http://peonyparadise.com/) Salem: Features over 500 peony varieties.
 * [Arrow Head Lavender Farms](https://www.arrowheadlavender.com) Salem: Focuses on high-quality lavender products.
-* [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais: A family-owned farm known for fresh produce.
-* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth: Renowned for rare and unusual plants.
+* [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais
+* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth
 * [Fessler Gardens](http://www.fesslernursery.com/) Woodburn: Known for baskets, potting plants, and tropical house plants.
 * [French Prairie Gardens](http://www.fpgardens.com/) St Paul: Offers family-friendly activities and fresh produce.
-* [Godfrey Nursery](https://www.godfreynursery.com) Aumsville: Focuses on high-quality gardening essentials.
-* [Guentners Gardens](https://www.facebook.com/GuentnersGardens/) Salem: A local favorite for expert gardening advice.
+* [Godfrey Nursery](https://www.godfreynursery.com) Aumsvill
+* [Guentners Gardens](https://www.facebook.com/GuentnersGardens/) Salem
 * [Happy Bee Garden Center](https://www.fandbfarms.com/page/Happy-Bee-Garden-Center) Woodburn: Emphasizes bee-friendly gardening products.
-* [Hari Nursery](https://www.harinursery.com/) Salem: Known for its diverse plant offerings.
+* [Hari Nursery](https://www.harinursery.com/) Salem
 * [Heirloom Roses](http://www.heirloomroses.com/) St. Paul: Specializes in own-root roses.
-* [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora: Offers a wide range of produce for home gardens.
-* [Marion Ag](http://www.marionag.com/) St Paul: Provides agricultural products.
+* [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora
+* [Marion Ag](http://www.marionag.com/) St Paul
 * [Old Mill's Feed and Garden](https://oldmillfeed.com) Dallas: Known for its comprehensive feed store.
 * [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem: Famous for its stunning iris displays.
 * [Sebright Gardens](https://www.sebrightgardens.com) Salem: Focuses on hostas, ferns, and shade-tolerant plants.
-* [Terra Gardens](https://www.terragardens.net/) Salem: Offers a full-service garden center experience.
+* [Terra Gardens](https://www.terragardens.net/) Salem
 * [The Nursery Outlet](http://thenurseryoutlet.us/) Woodburn: Known for discounted gardening supplies.
 * [Whitman Farms](https://www.whitmanfarms.com/) Salem: Specializes in unusual fruits and ornamental trees.
 * [Wooden Shoe Tulip Farm](https://www.woodenshoe.com/) Woodburn: Famous for its tulip fields.
