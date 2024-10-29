@@ -21,7 +21,7 @@ Inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.o
 
 ## Public Gardens 
 * [The Oregon Gardens](http://www.oregongarden.org/) Silverton
-* [Delbert Hunter Arboreum](http://www.delberthunterarboretum.org/) Dallas
+* [Delbert Hunter Arboretum](http://www.delberthunterarboretum.org/) Dallas
 * [Bush Pasture Park](https://www.cityofsalem.net/Home/Components/FacilityDirectory/FacilityDirectory/85/599) Salem
 * [Historic Deepwood Gardens](https://www.historicdeepwoodestate.org/) Salem
 * [Martha Springer Botanical Gardens](https://en.wikipedia.org/wiki/Martha_Springer_Botanical_Garden) at Willamette University. Salem
@@ -35,14 +35,14 @@ Oregon plant something maintains a [searchable database](https://plantsomethingo
 
 * [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem
 * [Alderman Peony Gardens](http://peonyparadise.com/) Salem - more than 500 different varieties of peonies 
-* [Arrow Head Lavander Farms](https://www.arrowheadlavender.com) Salem
+* [Arrow Head Lavender Farms](https://www.arrowheadlavender.com) Salem
 * [Heirloom Roses](http://www.heirloomroses.com/) St. Paul
 * [Wooden Shoe Tulip Farm](https://www.woodenshoe.com/) Woodburn
 * [Sebright Gardens](https://www.sebrightgardens.com) Salem - Specializes in Hostas, Ferns, Epimediums and shade-tolerant plants.
 * [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth
 * [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn
 * [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais
-* [Whitman Farms](https://www.whitmanfarms.com/) Salem - Unusual fruits (mulberries, currants, gooseberries, etc.) andnamentals: mostly trees.
+* [Whitman Farms](https://www.whitmanfarms.com/) Salem - Unusual fruits (mulberries, currants, gooseberries, etc.) and ornamentals, mostly trees.
 * [Hari Nursery](https://www.harinursery.com/) Salem
 * [Terra Gardens](https://www.terragardens.net/) Salem
 * [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence
@@ -63,17 +63,17 @@ Marion Polk Foodshare maintains a comprehensive list of [community gardens](http
 
 ## Food Pantries
 
-Marion Polk Foodshare's list of [Neighboorhood Food Pantries](https://marionpolkfoodshare.org/get-help/)
+Marion Polk Foodshare's list of [Neighborhood Food Pantries](https://marionpolkfoodshare.org/get-help/)
 
 ## Farmer's Markets
 
 * Rickreall Farmers Market 280 Pacific Hwy. W, Rickreall, 541-745-7274
 * [Independence Riverview Market](https://www.independenceriverviewmarket.com) 50 C St., Independence 503-837-0045 
-* [Theiginal Independence Farmers Market](https://www.independencefarmersmarket-or.org) 302 S Main St., Independence 503-881-9950
+* [The Original Independence Farmers Market](https://www.independencefarmersmarket-or.org) 302 S Main St., Independence 503-881-9950
 * [Polk County Bounty Market](www.exploredallasoregon.org) 182 SW Academy St., Dallas, 503-623-2564
 * [Salem Saturday Market](https://www.salemcommunitymarkets.com/saturday-market.html) 865 Marion St NE, Salem
 * [Salem Monday Hospital Market](https://www.salemcommunitymarkets.com/monday-market.html) ​Salem Hospital Campus between Building A & C 875 Oak Street, Salem
-* [Salem Wednesday Chemeketa Market](https://www.salemcommunitymarkets.com/wednesday-chemeketa-market.html) Chemeketa Community Collage Agricultural Hub (On the corner of 45th and Fire Protection Way)
+* [Salem Wednesday Chemeketa Market](https://www.salemcommunitymarkets.com/wednesday-chemeketa-market.html) Chemeketa Community College Agricultural Hub (On the corner of 45th and Fire Protection Way)
 * [West Salem Farmer's Market](https://www.salemcommunitymarkets.com/thursday-market.html) 1260 Edgewater St NW, Salem
 * [Turner Saturday Farmer's Market](https://sokoapp.co/market/turner-farmers-market) 3rd St SE & Boise St SE, Turner 97392
 * [Wayvro Farms Winter Indoor Farmer's Market](https://wavrafarms.com) Salem
@@ -88,15 +88,15 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 
 ## Compost
 
-* [Coffin Butte Landfill](https://coffinbuttelandfill.com) Manmouth - $25 / yard
-* [Recologyga9nics](https://www.recology.com/recology-western-oregon/organics-aumsville/) Aumsville - compost and bark products
+* [Coffin Butte Landfill](https://coffinbuttelandfill.com) Monmouth - $25 / yard
+* [Recology Organics](https://www.recology.com/recology-western-oregon/organics-aumsville/) Aumsville - compost and bark products. Compost is $25 a yard and they can deliver with a 2 yard minimum. Cost depends on location, for West Salem, for example, it's $55. 
 * [Highway Fuel](https://highwayfuel.com/product-category/soil-compost/) Salem
 * [Landscape Shoppe](https://landscapeshoppe.com/soil-compost/) Salem
 * [Bark Boys](https://barkboys.net/our-products/soil/) Salem 
 
 ## Woodchips
 
-* [R&R Tree Service](https://www.rrtreeservice.com/) Salem - call 503-540-9038 – to be added to our chip mulch list.  When the crew is working in the area, and has a load available, they will call to see if you are interested.  Each load of chips is approximately 10 – 15 yards.  They dump full loads only.
+* [R&R Tree Service](https://www.rrtreeservice.com/) Salem - call 503-540-9038 – to be added to their chip mulch list.  When the crew is working in the area, and has a load available, they will call to see if you are interested.  Each load of chips is approximately 10 – 15 yards.  They dump full loads only.
 
 ## Mushrooms
 
