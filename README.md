@@ -35,29 +35,29 @@ This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustaina
 ## Nurseries / Farm Stores
 Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers in Oregon. 
 
-* [13th Street Nursery](https://www.13thstreetnursery.net) Salem
-* [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence
-* [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn
-* [Alderman Peony Gardens](http://peonyparadise.com/) Salem - more than 500 different varieties of peonies
-* [Arrow Head Lavender Farms](https://www.arrowheadlavender.com) Salem
-* [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais
-* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth
-* [Fessler Gardens](http://www.fesslernursery.com/) Woodburn - baskets, potting plants and tropical house plants
-* [French Prairie Gardens](http://www.fpgardens.com/) St Paul
-* [Godfrey Nursery](https://www.godfreynursery.com) Aumsville
-* [Guentners Gardens](https://www.facebook.com/GuentnersGardens/) Salem
-* [Happy Bee Garden Center](https://www.fandbfarms.com/page/Happy-Bee-Garden-Center) Woodburn
-* [Hari Nursery](https://www.harinursery.com/) Salem
-* [Heirloom Roses](http://www.heirloomroses.com/) St. Paul
-* [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora
-* [Marion Ag](http://www.marionag.com/) St Paul
-* [Old Mill's Feed and Garden](https://oldmillfeed.com) Dallas
-* [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem
-* [Sebright Gardens](https://www.sebrightgardens.com) Salem - Specializes in Hostas, Ferns, Epimediums and shade-tolerant plants.
-* [Terra Gardens](https://www.terragardens.net/) Salem
-* [The Nursery Outlet](http://thenurseryoutlet.us/) Woodburn
-* [Whitman Farms](https://www.whitmanfarms.com/) Salem - Unusual fruits (mulberries, currants, gooseberries, etc.) and ornamentals, mostly trees.
-* [Wooden Shoe Tulip Farm](https://www.woodenshoe.com/) 
+* [13th Street Nursery](https://www.13thstreetnursery.net) Salem: Known for its personalized service.
+* [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence: Specializes in native plants and trees.
+* [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn: Offers home décor along with garden essentials.
+* [Alderman Peony Gardens](http://peonyparadise.com/) Salem: Features over 500 peony varieties.
+* [Arrow Head Lavender Farms](https://www.arrowheadlavender.com) Salem: Focuses on high-quality lavender products.
+* [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais: A family-owned farm known for fresh produce.
+* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth: Renowned for rare and unusual plants.
+* [Fessler Gardens](http://www.fesslernursery.com/) Woodburn: Known for baskets, potting plants, and tropical house plants.
+* [French Prairie Gardens](http://www.fpgardens.com/) St Paul: Offers family-friendly activities and fresh produce.
+* [Godfrey Nursery](https://www.godfreynursery.com) Aumsville: Focuses on high-quality gardening essentials.
+* [Guentners Gardens](https://www.facebook.com/GuentnersGardens/) Salem: A local favorite for expert gardening advice.
+* [Happy Bee Garden Center](https://www.fandbfarms.com/page/Happy-Bee-Garden-Center) Woodburn: Emphasizes bee-friendly gardening products.
+* [Hari Nursery](https://www.harinursery.com/) Salem: Known for its diverse plant offerings.
+* [Heirloom Roses](http://www.heirloomroses.com/) St. Paul: Specializes in own-root roses.
+* [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora: Offers a wide range of produce for home gardens.
+* [Marion Ag](http://www.marionag.com/) St Paul: Provides agricultural products.
+* [Old Mill's Feed and Garden](https://oldmillfeed.com) Dallas: Known for its comprehensive feed store.
+* [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem: Famous for its stunning iris displays.
+* [Sebright Gardens](https://www.sebrightgardens.com) Salem: Focuses on hostas, ferns, and shade-tolerant plants.
+* [Terra Gardens](https://www.terragardens.net/) Salem: Offers a full-service garden center experience.
+* [The Nursery Outlet](http://thenurseryoutlet.us/) Woodburn: Known for discounted gardening supplies.
+* [Whitman Farms](https://www.whitmanfarms.com/) Salem: Specializes in unusual fruits and ornamental trees.
+* [Wooden Shoe Tulip Farm](https://www.woodenshoe.com/) Woodburn: Famous for its tulip fields.
 
 ## Community Gardens 
 
@@ -69,16 +69,17 @@ Marion Polk Foodshare's list of [Neighborhood Food Pantries](https://marionpolkf
 
 ## Farmer's Markets
 
-* Rickreall Farmers Market 280 Pacific Hwy. W, Rickreall, 541-745-7274
-* [Independence Riverview Market](https://www.independenceriverviewmarket.com) 50 C St., Independence 503-837-0045 
-* [The Original Independence Farmers Market](https://www.independencefarmersmarket-or.org) 302 S Main St., Independence 503-881-9950
-* [Polk County Bounty Market](www.exploredallasoregon.org) 182 SW Academy St., Dallas, 503-623-2564
-* [Salem Saturday Market](https://www.salemcommunitymarkets.com/saturday-market.html) 865 Marion St NE, Salem
-* [Salem Monday Hospital Market](https://www.salemcommunitymarkets.com/monday-market.html) ​Salem Hospital Campus between Building A & C 875 Oak Street, Salem
-* [Salem Wednesday Chemeketa Market](https://www.salemcommunitymarkets.com/wednesday-chemeketa-market.html) Chemeketa Community College Agricultural Hub (On the corner of 45th and Fire Protection Way)
-* [West Salem Farmer's Market](https://www.salemcommunitymarkets.com/thursday-market.html) 1260 Edgewater St NW, Salem
-* [Turner Saturday Farmer's Market](https://sokoapp.co/market/turner-farmers-market) 3rd St SE & Boise St SE, Turner 97392
-* [Wayvro Farms Winter Indoor Farmer's Market](https://wavrafarms.com) Salem
+* [Dallas Farmer's Market](https://www.dallasdowntownassociation.org/dallasfarmersmarket/) 182 SW Academy St, Dallas, OR 97338 - Saturday
+* [Independence Riverview Market](https://www.independenceriverviewmarket.com) 50 C St., Independence 503-837-0045 - Sunday
+* [Polk County Bounty Market](http://www.exploredallasoregon.org) 182 SW Academy St., Dallas, 503-623-2564 - Thursday
+* Rickreall Farmers Market 280 Pacific Hwy. W, Rickreall, 541-745-7274 - Sunday
+* [Salem Monday Hospital Market](https://www.salemcommunitymarkets.com/monday-market.html) Salem Hospital Campus between Building A & C, 875 Oak Street, Salem - Monday
+* [Salem Saturday Market](https://www.salemcommunitymarkets.com/saturday-market.html) 865 Marion St NE, Salem - Saturday
+* [Salem Wednesday Chemeketa Market](https://www.salemcommunitymarkets.com/wednesday-chemeketa-market.html) Chemeketa Community College Agricultural Hub, on the corner of 45th and Fire Protection Way, Salem - Wednesday
+* [The Original Independence Farmers Market](https://www.independencefarmersmarket-or.org) 302 S Main St., Independence 503-881-9950 - Saturday
+* [Turner Saturday Farmer's Market](https://sokoapp.co/market/turner-farmers-market) 3rd St SE & Boise St SE, Turner 97392 - Saturday
+* [Wayvro Farms Winter Indoor Farmer's Market](https://wavrafarms.com) 7882 Jordan Street SE, Salem, OR 97317 503 364-9879 Salem - Thursday, Friday and Saturday 
+* [West Salem Farmer's Market](https://www.salemcommunitymarkets.com/thursday-market.html) 1260 Edgewater St NW, Salem - Thursday
 
 ## Landscaping Companies
 
