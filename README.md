@@ -130,7 +130,7 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Hopewell Permaculture Guild](https://www.hopewellhub.com/hopewell-permaculture-guild.html) Salem
 
 ## Online Guides / References / Apps
- [OSU Extension Service](https://extension.oregonstate.edu): Provides research-based knowledge and educational programs to help Oregonians.
+* [OSU Extension Service](https://extension.oregonstate.edu): Provides research-based knowledge and educational programs to help Oregonians.
 * [Pacific Northwest Pest Management Handbook](http://pnwhandbooks.org): A comprehensive guide to identifying and managing pests in the Pacific Northwest.
 * [National Wildlife Foundation Native Plant Finder](https://nativeplantfinder.nwf.org/): Helps gardeners select native plants that support local wildlife based on their ZIP code.
 * [OregonFlora](https://oregonflora.org): A resource for comprehensive information on the plants of Oregon, including an extensive database of native species.
