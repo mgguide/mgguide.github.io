@@ -5,32 +5,32 @@ The information provided is for reference only and does not constitute an endors
 This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustainablecorvallis.org/what-we-do/action-teams/food/garden-resource-guide/)
 
 ## Certification Programs
-* [Master Gardeners](https://extension.oregonstate.edu/mg)
-* [Horticulture at Chemeketa](https://www.chemeketa.edu/programs-classes/program-finder/horticulture/)
-* [Master Food Preservers](https://extension.oregonstate.edu/mfp/master-food-preserver-program)
-* [Oregon Naturalist](https://extension.oregonstate.edu/oregon-naturalist)
-* [Master Beekeeper](https://extension.oregonstate.edu/mb)
-* [OSU Compost Specialist](https://extension.oregonstate.edu/mg/lane/compost-specialists)
+* [Master Gardeners](https://extension.oregonstate.edu/mg): A program that trains volunteers to provide research-based horticultural advice to the public.
+* [Horticulture at Chemeketa](https://www.chemeketa.edu/programs-classes/program-finder/horticulture/): Offers comprehensive education in plant science, landscape management, and sustainable practices.
+* [Master Food Preservers](https://extension.oregonstate.edu/mfp/master-food-preserver-program): Teaches safe and effective methods of food preservation to volunteers who then educate their communities.
+* [Oregon Naturalist](https://extension.oregonstate.edu/oregon-naturalist): A program that educates participants about Oregon's natural history, ecology, and conservation practices.
+* [Master Beekeeper](https://extension.oregonstate.edu/mb): Provides training and certification for beekeepers at various skill levels, emphasizing best practices and bee health.
+* [OSU Compost Specialist](https://extension.oregonstate.edu/mg/lane/compost-specialists): Trains volunteers in composting techniques to promote soil health and reduce waste in the community.
 
 ## Educational Programs
-* [Seed to Supper](https://extension.oregonstate.edu/seed-supper)
-* [Junior Master Gardeners](https://jmgkids.us)
-* [Plant Heroes](https://plantheroes.org) - youth education program
-* [Marion SWCD Little Habitat Program](https://www.marionswcd.net/little-habitat-project/)
-* [Food Hero](https://foodhero.org)
-* [Garden to Table](https://ycmga.org/garden-to-table/) from Yamhill County Master Gardeners
-* [Growing Oregon Gardeners: Level Up Series](https://extension.oregonstate.edu/mg/growing-oregon-gardeners-level-series-2024)
+* [Seed to Supper](https://extension.oregonstate.edu/seed-supper): A beginner gardening course that teaches low-income adults how to grow their own food.
+* [Junior Master Gardeners](https://jmgkids.us): An engaging youth gardening program that provides children with hands-on learning experiences in horticulture.
+* [Plant Heroes](https://plantheroes.org): A fun and educational program designed to teach kids about plant health and conservation.
+* [Marion SWCD Little Habitat Program](https://www.marionswcd.net/little-habitat-project/):  An initiative aimed at creating small-scale habitats to support local wildlife.
+* [Food Hero](https://foodhero.org): A resource promoting healthy eating habits through easy-to-make recipes and nutrition tips.
+* [Garden to Table](https://ycmga.org/garden-to-table/) from Yamhill County Master Gardeners: A program that teaches the basics of growing, harvesting, and preparing fresh produce.
+* [Growing Oregon Gardeners: Level Up Series](https://extension.oregonstate.edu/mg/growing-oregon-gardeners-level-series-2024): An advanced gardening series offering in-depth knowledge and skills for experienced gardeners.
 
 ## Public Gardens 
-* [The Oregon Gardens](http://www.oregongarden.org/) Silverton
-* [Delbert Hunter Arboretum](http://www.delberthunterarboretum.org/) Dallas
-* [Bush Pasture Park](https://www.cityofsalem.net/Home/Components/FacilityDirectory/FacilityDirectory/85/599) Salem
-* [Historic Deepwood Gardens](https://www.historicdeepwoodestate.org/) Salem
-* [Martha Springer Botanical Gardens](https://en.wikipedia.org/wiki/Martha_Springer_Botanical_Garden) at Willamette University. Salem
-* [Gaiety Hollow](https://lordschryver.org/gaiety-hollow/) Salem
-* [Audubon Nature Reserve](https://www.salemaudubon.org/nature-reserve) Salem
-* [Mt. Fir Inspiration Garden](https://www.ci.independence.or.us/mt-fir-park-inspiration-garden/) Independence
-* [Marion Demonstration Garden](https://marioncomga.org/demonstration-garden/) Salem
+* [The Oregon Gardens](http://www.oregongarden.org/) Silverton: A stunning 80-acre botanical garden featuring diverse plant collections and beautiful landscapes.
+* [Delbert Hunter Arboretum](http://www.delberthunterarboretum.org/) Dallas:  An educational arboretum showcasing a wide variety of trees and plants native to Oregon.
+* [Bush Pasture Park](https://www.cityofsalem.net/Home/Components/FacilityDirectory/FacilityDirectory/85/599) Salem: A historic park with extensive gardens, walking trails, and the historic Bush House Museum. 
+* [Historic Deepwood Gardens](https://www.historicdeepwoodestate.org/) Salem: Victorian-era gardens surrounding the Historic Deepwood Estate, offering a glimpse into Salem's past. 
+* [Martha Springer Botanical Gardens](https://en.wikipedia.org/wiki/Martha_Springer_Botanical_Garden) Salem: A compact but diverse garden on the Willamette University campus, featuring native and exotic plants.
+* [Gaiety Hollow](https://lordschryver.org/gaiety-hollow/) Salem: The home and garden of pioneering landscape architects Elizabeth Lord and Edith Schryver.
+* [Audubon Nature Reserve](https://www.salemaudubon.org/nature-reserve) Salem: A serene nature reserve focusing on wildlife habitat and native plant conservation.
+* [Mt. Fir Inspiration Garden](https://www.ci.independence.or.us/mt-fir-park-inspiration-garden/) Independence:  A beautiful 7-acre garden showcasing sustainable gardening practices, maintained by Master Gardeners.
+* [Marion Demonstration Garden](https://marioncomga.org/demonstration-garden/) Salem: An educational garden maintained by Master Gardeners to demonstrate various gardening techniques and plant varieties
 
 ## Nurseries / Farm Stores
 Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers in Oregon. 
