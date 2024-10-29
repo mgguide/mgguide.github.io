@@ -129,27 +129,27 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Hopewell Permaculture Guild](https://www.hopewellhub.com/hopewell-permaculture-guild.html) Salem
 
 ## Online Guides / References / Apps
-
-* [OSU Extension Service](https://extension.oregonstate.edu)
-* [Pacific Northwest Pest Management Handbook](http://pnwhandbooks.org)
-* [National Wildlife Foundation Native Plant Finder](https://nativeplantfinder.nwf.org/)
-* [OregonFlora](https://oregonflora.org)
-* [Plant Buddies](https://plantbuddies.serlo.org) Easy to use companion planting guide
-* [PlantNet](https://plantnet.org/en/) Plant identification
-* [Vegplotter](https://vegplotter.com) Plot planner
+ [OSU Extension Service](https://extension.oregonstate.edu): Provides research-based knowledge and educational programs to help Oregonians.
+* [Pacific Northwest Pest Management Handbook](http://pnwhandbooks.org): A comprehensive guide to identifying and managing pests in the Pacific Northwest.
+* [National Wildlife Foundation Native Plant Finder](https://nativeplantfinder.nwf.org/): Helps gardeners select native plants that support local wildlife based on their ZIP code.
+* [OregonFlora](https://oregonflora.org): A resource for comprehensive information on the plants of Oregon, including an extensive database of native species.
+* [Plant Buddies](https://plantbuddies.serlo.org): Easy to use companion planting guide: An interactive guide to companion planting, helping gardeners choose beneficial plant pairings.
+* [PlantNet](https://plantnet.org/en/): An app for identifying plants by taking photos and comparing them with a vast botanical database.
+* [Vegplotter](https://vegplotter.com): A tool for planning vegetable gardens, allowing users to layout their plots and manage planting schedules.
 
 ## Local Organizations
 
-* [Marion Soil and Water Conservation District](https://www.marionswcd.net)
-* [Polk Soil and Water Conservation District](http://polkswcd.com)
-* [OSU Small Farms Program](https://smallfarms.oregonstate.edu)
-* [Marion County 4-H](https://extension.oregonstate.edu/4h/marion)
-* [Polk County 4-H](https://extension.oregonstate.edu/4h/polk)
-* [Native Plant Society of the Willamette Valley](https://www.npsoregon.org/wp/wv/)
-* [Willamette Valley Mushroom Society](https://www.wvmssalem.org)
-* [Salem Audubon Society](https://www.salemaudubon.org)
-* [Friends of Trees](https://friendsoftrees.org/salem/)
-* [Salem Hardy Plants Society](https://salemhardyplantsociety.org)
+* [Marion Soil and Water Conservation District](https://www.marionswcd.net): Provides resources and support for soil and water conservation in Marion County.
+* [Polk Soil and Water Conservation District](http://polkswcd.com): Works to promote sustainable agricultural practices and conservation efforts in Polk County.
+* [OSU Small Farms Program](https://smallfarms.oregonstate.edu): Offers education and support for small-scale farmers in Oregon, promoting sustainable and profitable farming practices.
+* [Marion County 4-H](https://extension.oregonstate.edu/4h/marion): A youth development program that offers hands-on learning experiences in various fields, including agriculture and science.
+* [Polk County 4-H](https://extension.oregonstate.edu/4h/polk): Provides educational programs and activities for youth in Polk County, fostering leadership and life skills.
+* [Native Plant Society of the Willamette Valley](https://www.npsoregon.org/wp/wv/): Dedicated to the study, conservation, and enjoyment of native plants in the Willamette Valley.
+* [Willamette Valley Mushroom Society](https://www.wvmssalem.org): Promotes the study and appreciation of fungi through education and foraging events.
+* [Salem Audubon Society](https://www.salemaudubon.org): Focuses on bird conservation and environmental education through community engagement and activities.
+* [Friends of Trees](https://friendsoftrees.org/salem/): Works to improve urban environments by planting trees and promoting community tree care.
+* [Salem Hardy Plants Society](https://salemhardyplantsociety.org): A community of gardeners dedicated to growing and sharing knowledge about hardy plants.
+
 
 ## Facebook Groups 
 * [Salem/Keizer Oregon Gardening for Pollinators and Birds](https://www.facebook.com/share/g/gcU2VdpkXkab42Kj/)
