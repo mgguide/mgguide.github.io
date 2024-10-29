@@ -88,6 +88,11 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Terra Gardens](https://www.terragardens.net) Salem
 * [Marr Bros](http://www.marrbrosbark.com/) Monmouth
 
+## Arborists
+
+* [Altar Tree Services](https://altartreeservice.com/) Salem
+* [R&R Tree Service](https://rrtreeservice.com) Salem
+
 ## Compost
 
 * [Coffin Butte Landfill](https://coffinbuttelandfill.com) Monmouth - $25 / yard
