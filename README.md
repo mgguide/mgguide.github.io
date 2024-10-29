@@ -35,29 +35,29 @@ This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustaina
 ## Nurseries / Farm Stores
 Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers in Oregon. 
 
-* [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem
-* [Alderman Peony Gardens](http://peonyparadise.com/) Salem - more than 500 different varieties of peonies 
-* [Arrow Head Lavender Farms](https://www.arrowheadlavender.com) Salem
-* [Heirloom Roses](http://www.heirloomroses.com/) St. Paul
-* [Wooden Shoe Tulip Farm](https://www.woodenshoe.com/) Woodburn
-* [Sebright Gardens](https://www.sebrightgardens.com) Salem - Specializes in Hostas, Ferns, Epimediums and shade-tolerant plants.
-* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth
-* [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn
-* [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais
-* [Whitman Farms](https://www.whitmanfarms.com/) Salem - Unusual fruits (mulberries, currants, gooseberries, etc.) and ornamentals, mostly trees.
-* [Hari Nursery](https://www.harinursery.com/) Salem
-* [Terra Gardens](https://www.terragardens.net/) Salem
-* [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence
-* [French Prairie Gardens](http://www.fpgardens.com/) St Paul
-* [Marion Ag](http://www.marionag.com/) St Paul
-* [Fessler Gardens](http://www.fesslernursery.com/) Woodburn - baskets, potting plants and tropical house plants
-* [Happy Bee Garden Center](https://www.fandbfarms.com/page/Happy-Bee-Garden-Center) Woodburn
-* [The Nursery Outlet](http://thenurseryoutlet.us/) Woodburn
 * [13th Street Nursery](https://www.13thstreetnursery.net) Salem
-* [Guentners Gardens](https://www.facebook.com/GuentnersGardens/) Salem
-* [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora
-* [Old Mill's Feed and Garden](https://oldmillfeed.com) Dallas
+* [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence
+* [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn
+* [Alderman Peony Gardens](http://peonyparadise.com/) Salem - more than 500 different varieties of peonies
+* [Arrow Head Lavender Farms](https://www.arrowheadlavender.com) Salem
+* [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais
+* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth
+* [Fessler Gardens](http://www.fesslernursery.com/) Woodburn - baskets, potting plants and tropical house plants
+* [French Prairie Gardens](http://www.fpgardens.com/) St Paul
 * [Godfrey Nursery](https://www.godfreynursery.com) Aumsville
+* [Guentners Gardens](https://www.facebook.com/GuentnersGardens/) Salem
+* [Happy Bee Garden Center](https://www.fandbfarms.com/page/Happy-Bee-Garden-Center) Woodburn
+* [Hari Nursery](https://www.harinursery.com/) Salem
+* [Heirloom Roses](http://www.heirloomroses.com/) St. Paul
+* [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora
+* [Marion Ag](http://www.marionag.com/) St Paul
+* [Old Mill's Feed and Garden](https://oldmillfeed.com) Dallas
+* [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem
+* [Sebright Gardens](https://www.sebrightgardens.com) Salem - Specializes in Hostas, Ferns, Epimediums and shade-tolerant plants.
+* [Terra Gardens](https://www.terragardens.net/) Salem
+* [The Nursery Outlet](http://thenurseryoutlet.us/) Woodburn
+* [Whitman Farms](https://www.whitmanfarms.com/) Salem - Unusual fruits (mulberries, currants, gooseberries, etc.) and ornamentals, mostly trees.
+* [Wooden Shoe Tulip Farm](https://www.woodenshoe.com/) 
 
 ## Community Gardens 
 
