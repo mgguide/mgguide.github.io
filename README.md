@@ -10,6 +10,7 @@ This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustaina
 * [Master Food Preservers](https://extension.oregonstate.edu/mfp/master-food-preserver-program): Teaches safe and effective methods of food preservation to volunteers who then educate their communities.
 * [Oregon Naturalist](https://extension.oregonstate.edu/oregon-naturalist): A program that educates participants about Oregon's natural history, ecology, and conservation practices.
 * [Master Beekeeper](https://extension.oregonstate.edu/mb): Provides training and certification for beekeepers at various skill levels, emphasizing best practices and bee health.
+* [Master Melittologist](https://extension.oregonstate.edu/master-melittologist/master-melittologist-apprentice-program): Train citizen scientists to both collect AND curate bee specimens.
 * [OSU Compost Specialist](https://extension.oregonstate.edu/mg/lane/compost-specialists): Trains volunteers in composting techniques to promote soil health and reduce waste in the community.
 
 ## Educational Programs
@@ -50,6 +51,7 @@ Oregon plant something maintains a [searchable database](https://plantsomethingo
 * [Hari Nursery](https://www.harinursery.com/) Salem
 * [Heirloom Roses](http://www.heirloomroses.com/) St. Paul: Specializes in own-root roses.
 * [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora
+* [Mahonia Nursery](https://www.mahonianursery.com) Salem - Native plants
 * [Marion Ag](http://www.marionag.com/) St Paul
 * [Old Mill's Feed and Garden](https://oldmillfeed.com) Dallas: Known for its comprehensive feed store.
 * [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem: Famous for its stunning iris displays.
@@ -66,6 +68,11 @@ Marion Polk Foodshare maintains a comprehensive list of [community gardens](http
 ## Food Pantries
 
 Marion Polk Foodshare's list of [Neighborhood Food Pantries](https://marionpolkfoodshare.org/get-help/)
+
+## Seeds
+
+* [Mountain View Seeds](https://www.mtviewseeds.com) Salem
+* [Burlingham Seeds](https://burlinghamseeds.com) Rickreall
 
 ## Farmer's Markets
 
@@ -116,7 +123,7 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 ## Bees and Bee Supplies
 
 * [Linn County Master Gardeners](https://www.linnmastergardeners.com/pollinator-info) Bee Notes newsletter and Mason Bee supplies and cacoons.
-* [Flying Bee Ranch](https://flyingbeeranch.net/) Salem 
+* [Flying Bee Ranch](https://flyingbeeranch.net/) Salem
 
 ## Garden Supplies
 * [Habitat for Humanity ReStore](https://salemhabitat.org/restore/)
@@ -128,6 +135,21 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 ## Permaculture
 
 * [Hopewell Permaculture Guild](https://www.hopewellhub.com/hopewell-permaculture-guild.html) Salem
+
+## Sources for Native Plants ( outside Polk / Marion )
+* [Willamette Wildings](https://willamettewildlings.com/) Creswell
+* [Steel Acres Seed](https://www.steeleacres.com) Corvallis
+* [Bosky Dell Natives](http://www.boskydellnatives.com) West Linn
+* [Echo Valley Natvies](http://www.echovalleynatives.com) Oregon City
+* [Sauvie Island Natives](https://sauvienatives.com) Portland
+* [Willamette Gardens](http://www.willamettegardens.com) Corvallis
+
+## Plant Sales
+* [Polk County Master Gardener Plant Sale](https://polkmga.org/plant-sale/) Polk County Fairgrounds - traditionally held the Friday and Saturday of Mother’s Day weekend in May
+* [Marion County Master Gardener Plant Sale](https://marioncomga.org/plant-sale/) Marion County Fairgrounds - Early May
+* [Polk Soil and Water Conservation District Native Plant Sale](https://www.polkswcd.com/plant-sale.html)
+* [Marion Soil and Water Conservation District Native Plant Sale](https://www.marionswcd.net/what-we-offer/nps/) - two sales, and autumn and a spring one. 
+* [Yamhill Soil and Water Conservation District Native Plant Sale](https://yamhillswcd.org/nps/) 
 
 ## Online Guides / References / Apps
 * [OSU Extension Service](https://extension.oregonstate.edu): Provides research-based knowledge and educational programs to help Oregonians.
@@ -150,7 +172,6 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 * [Salem Audubon Society](https://www.salemaudubon.org): Focuses on bird conservation and environmental education through community engagement and activities.
 * [Friends of Trees](https://friendsoftrees.org/salem/): Works to improve urban environments by planting trees and promoting community tree care.
 * [Salem Hardy Plants Society](https://salemhardyplantsociety.org): A community of gardeners dedicated to growing and sharing knowledge about hardy plants.
-
 
 ## Facebook Groups 
 * [Salem/Keizer Oregon Gardening for Pollinators and Birds](https://www.facebook.com/share/g/gcU2VdpkXkab42Kj/)
