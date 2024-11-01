@@ -36,7 +36,7 @@ This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustaina
 ## Nurseries / Farm Stores
 Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers in Oregon. 
 
-🌱 Indicates a nursery that might be outside of Salem/Polk but included because it is an excellent source for Native Plants
+🌱 Indicates a nursery that might be outside of Marion/Polk but included because it is an excellent source for Native Plants
 
 * [13th Street Nursery](https://www.13thstreetnursery.net) Salem
 * [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence
