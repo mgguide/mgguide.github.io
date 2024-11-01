@@ -23,7 +23,7 @@ This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustaina
 * [Growing Oregon Gardeners: Level Up Series](https://extension.oregonstate.edu/mg/growing-oregon-gardeners-level-series-2024): An advanced gardening series offering in-depth knowledge and skills for experienced gardeners.
 
 ## Public Gardens 
-* [The Oregon Gardens](http://www.oregongarden.org/) Silverton: A stunning 80-acre botanical garden featuring diverse plant collections and beautiful landscapes.
+* [The Oregon Garden](http://www.oregongarden.org/) Silverton: A stunning 80-acre botanical garden featuring diverse plant collections and beautiful landscapes.
 * [Delbert Hunter Arboretum](http://www.delberthunterarboretum.org/) Dallas:  An educational arboretum showcasing a wide variety of trees and plants native to Oregon.
 * [Bush Pasture Park](https://www.cityofsalem.net/Home/Components/FacilityDirectory/FacilityDirectory/85/599) Salem: A historic park with extensive gardens, walking trails, and the historic Bush House Museum. 
 * [Historic Deepwood Gardens](https://www.historicdeepwoodestate.org/) Salem: Victorian-era gardens surrounding the Historic Deepwood Estate, offering a glimpse into Salem's past. 
