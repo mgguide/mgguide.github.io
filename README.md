@@ -36,30 +36,40 @@ This Guide is inspired by the [Corvallis Garden Resource Guide](https://sustaina
 ## Nurseries / Farm Stores
 Oregon plant something maintains a [searchable database](https://plantsomethingoregon.com/find/wpbdp_category/1garden-centers-specialty-nurseries/) of nurseries and suppliers in Oregon. 
 
+🌱 Indicates a nursery that might be outside of Salem/Polk but included because it is an excellent source for Native Plants
+
 * [13th Street Nursery](https://www.13thstreetnursery.net) Salem
 * [A Rocky Mountain Nursery](http://www.rkymtnnsy.com/) Independence
 * [Al's Garden and Home](http://www.als-gardencenter.com/) Woodburn
-* [Alderman Peony Gardens](http://peonyparadise.com/) Salem: Features over 500 peony varieties.
+* [Adelman Peony Gardens](http://peonyparadise.com/) Salem: Features over 500 peony varieties.
 * [Arrow Head Lavender Farms](https://www.arrowheadlavender.com) Salem: Focuses on high-quality lavender products.
 * [Bauman's Farm and Garden](http://www.baumanfarms.com/) Gervais
-* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth
+* [Bosky Dell Natives](http://www.boskydellnatives.com) West Linn 🌱
+* [Dancing Oaks Nursery](http://www.dancingoaks.com/) Monmouth 🌱
 * [Fessler Gardens](http://www.fesslernursery.com/) Woodburn: Known for baskets, potting plants, and tropical house plants.
 * [French Prairie Gardens](http://www.fpgardens.com/) St Paul: Offers family-friendly activities and fresh produce.
+* [Echo Valley Natvies](http://www.echovalleynatives.com) Oregon City 🌱
 * [Godfrey Nursery](https://www.godfreynursery.com) Aumsvill
 * [Guentners Gardens](https://www.facebook.com/GuentnersGardens/) Salem
 * [Happy Bee Garden Center](https://www.fandbfarms.com/page/Happy-Bee-Garden-Center) Woodburn: Emphasizes bee-friendly gardening products.
 * [Hari Nursery](https://www.harinursery.com/) Salem
 * [Heirloom Roses](http://www.heirloomroses.com/) St. Paul: Specializes in own-root roses.
 * [Margie's Farm and Garden](https://margiesfarmandgarden.com) Aurora
-* [Mahonia Nursery](https://www.mahonianursery.com) Salem - Native plants
+* [Mahonia Nursery](https://www.mahonianursery.com) Salem - Native plants 🌱
 * [Marion Ag](http://www.marionag.com/) St Paul
 * [Old Mill's Feed and Garden](https://oldmillfeed.com) Dallas: Known for its comprehensive feed store.
-* [Schneider Iris Gardens](http://www.schreinersgardens.com/) Salem: Famous for its stunning iris displays.
+* [Sauvie Island Natives](https://sauvienatives.com) Portland 🌱
+* [Schreiner's Iris Gardens](http://www.schreinersgardens.com/) Salem: Famous for its stunning iris displays.
 * [Sebright Gardens](https://www.sebrightgardens.com) Salem: Focuses on hostas, ferns, and shade-tolerant plants.
-* [Terra Gardens](https://www.terragardens.net/) Salem
+* [Steel Acres Seed](https://www.steeleacres.com) Corvallis 🌱
+* [Terra Gardens](https://www.terragardens.net/) Salem 🌱
 * [The Nursery Outlet](http://thenurseryoutlet.us/) Woodburn: Known for discounted gardening supplies.
 * [Whitman Farms](https://www.whitmanfarms.com/) Salem: Specializes in unusual fruits and ornamental trees.
+* [Willamette Gardens](http://www.willamettegardens.com) Corvallis 🌱
+* [Willamette Koi and Water Lilies](https://g.co/kgs/QAzb3GJ) Salem: for native water plants, native shade plants, and exotics. 🌱
+* [Willamette Wildings](https://willamettewildlings.com/) Creswell 🌱
 * [Wooden Shoe Tulip Farm](https://www.woodenshoe.com/) Woodburn: Famous for its tulip fields.
+* [Xera Plants](https://xeraplants.com) Portland 🌱
 
 ## Community Gardens 
 
@@ -73,6 +83,8 @@ Marion Polk Foodshare's list of [Neighborhood Food Pantries](https://marionpolkf
 
 * [Mountain View Seeds](https://www.mtviewseeds.com) Salem
 * [Burlingham Seeds](https://burlinghamseeds.com) Rickreall
+* [Silver Falls Seed Company](https://silverfallsseed.com/) Silverton
+* [PT Lawn Seed](https://ptlawnseed.com/) Portland
 
 ## Farmer's Markets
 
@@ -135,14 +147,6 @@ Oregon Plant Something has a list of [landscaping service](https://plantsomethin
 ## Permaculture
 
 * [Hopewell Permaculture Guild](https://www.hopewellhub.com/hopewell-permaculture-guild.html) Salem
-
-## Sources for Native Plants ( outside Polk / Marion )
-* [Willamette Wildings](https://willamettewildlings.com/) Creswell
-* [Steel Acres Seed](https://www.steeleacres.com) Corvallis
-* [Bosky Dell Natives](http://www.boskydellnatives.com) West Linn
-* [Echo Valley Natvies](http://www.echovalleynatives.com) Oregon City
-* [Sauvie Island Natives](https://sauvienatives.com) Portland
-* [Willamette Gardens](http://www.willamettegardens.com) Corvallis
 
 ## Plant Sales
 * [Polk County Master Gardener Plant Sale](https://polkmga.org/plant-sale/) Polk County Fairgrounds - traditionally held the Friday and Saturday of Mother’s Day weekend in May
