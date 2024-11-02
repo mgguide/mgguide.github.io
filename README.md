@@ -81,10 +81,19 @@ Marion Polk Foodshare's list of [Neighborhood Food Pantries](https://marionpolkf
 
 ## Seeds
 
-* [Mountain View Seeds](https://www.mtviewseeds.com) Salem
-* [Burlingham Seeds](https://burlinghamseeds.com) Rickreall
+* [Territorial Seed Company](https://territorialseed.com) Cottage Grove
 * [Silver Falls Seed Company](https://silverfallsseed.com/) Silverton
 * [PT Lawn Seed](https://ptlawnseed.com/) Portland
+* [Nichols Garden Nursery](https://nicholsgardennursery.com) Philomath
+* [Adaptive Seeds](https://www.adaptiveseeds.com/) Sweet Home
+* [Wild Garden Seed](https://www.wildgardenseed.com/) Philomath
+* [Siskiyou Seeds](https://www.siskiyouseeds.com) Williams
+* [Strictly Medicinal Seeds](https://strictlymedicinalseeds.com) Williams
+* [Mountain View Seeds](https://www.mtviewseeds.com) Salem
+* [Burlingham Seeds](https://burlinghamseeds.com) Rickreall
+* [The Thyme Garden](https://www.thymegarden.com/) Alsea
+* [Uprising Seeds](https://uprisingorganics.com) Bellingham WA
+* [Baker Creek Heirloom](https://www.rareseeds.com/?srsltid=AfmBOorOYjLaIX4BZf0WZHM78vreUPhSRs3dQWjy_H3ApmkyLGyZy8vv) national seed company out of MO
 
 ## Farmer's Markets
 
